@@ -1,0 +1,11 @@
+Platforms
+=========
+
+Linux
+-----
+
+macOS
+-----
+
+FreeBSD
+-------
