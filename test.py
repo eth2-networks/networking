@@ -1,4 +1,5 @@
-import networking
+from networking.interfaces import Bridge, Loopback
 
 
-print(networking.get_interface('lo'))
+br = Bridge.create('br-lan')
+lo = Loopback.create('lo0')

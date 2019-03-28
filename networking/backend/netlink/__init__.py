@@ -2,4 +2,5 @@ from networking.backend import BaseBackend
 
 
 class NetlinkBackend(BaseBackend):
-    pass
+    def __init__(self):
+        pass
